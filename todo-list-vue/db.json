@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Aprender JS",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Aprender Python",
+      "completed": false
+    },
+    {
+      "id": "30bb",
+      "title": "Subir base de Leads",
+      "completed": true
+    }
+  ]
+}
